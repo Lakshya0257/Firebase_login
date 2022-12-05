@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506787334628",
+    "project_id": "cadre-ca420",
+    "storage_bucket": "cadre-ca420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506787334628:android:acdbdfcc99403f37431ff1",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506787334628-i1471lcacms617klm1f0r12q8b8mritj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeSRi5ZAmZmSnB8dGmal7sbosHhDSbtdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506787334628-i1471lcacms617klm1f0r12q8b8mritj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
